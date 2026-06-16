@@ -6,7 +6,6 @@ A professional browser-based tool to decode **hex** or **base64** encoded video 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat&logo=typescript)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat&logo=tailwindcss)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat)
 
 ---
 
@@ -168,6 +167,6 @@ If a video doesn't play, try switching the format dropdown to match your actual 
 
 ---
 
-## 📄 License
+## 📄 Created By
 
-MIT © [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+© [noniCoder](https://github.com/noniCoder)
