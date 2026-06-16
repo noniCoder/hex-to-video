@@ -47,7 +47,7 @@ A professional browser-based tool to decode **hex** or **base64** encoded video 
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hex-video-viewer.git
+git clone https://github.com/noniCoder/hex-to-video.git
 cd hex-video-viewer
 npm install
 ```
